@@ -1,0 +1,65 @@
+/* Simple responsive styles with theme toggle */
+:root{
+  --bg:#ffffff;
+  --fg:#0b0b0b;
+  --muted:#666;
+  --accent:#0b76ef;
+}
+
+:root.dark{
+  --bg:#0f1720;
+  --fg:#e6eef8;
+  --muted:#9aa7b5;
+  --accent:#5fb3ff;
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"Noto Sans",sans-serif;
+  background:var(--bg);
+  color:var(--fg);
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+}
+
+.site-header{
+  padding:1rem;
+  border-bottom:1px solid rgba(0,0,0,0.06);
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:1rem;
+}
+
+.controls{display:flex;gap:0.5rem;align-items:center}
+.controls input[type=search]{padding:0.5rem 0.75rem;border-radius:6px;border:1px solid rgba(0,0,0,0.08);min-width:200px}
+.controls button{padding:0.5rem 0.75rem;border-radius:6px;border:none;background:var(--accent);color:#fff;cursor:pointer}
+
+main{flex:1;padding:1rem;max-width:900px;margin:0 auto;width:100%}
+.items-list{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:0.75rem}
+.items-list li{background:linear-gradient(180deg,rgba(0,0,0,0.01),transparent);padding:0.75rem;border-radius:8px;border:1px solid rgba(0,0,0,0.04);cursor:pointer;transition:transform .12s ease,box-shadow .12s ease}
+.items-list li:hover,.items-list li:focus{transform:translateY(-3px);box-shadow:0 6px 18px rgba(11,118,239,0.08)}
+.items-list li:focus{outline:2px solid var(--accent);outline-offset:2px}
+
+.info{margin-top:1rem;color:var(--muted)}
+
+/* Viewer */
+.viewer{display:none;margin-top:1rem;border-top:1px solid rgba(0,0,0,0.04);padding-top:1rem}
+.viewer[aria-hidden="false"]{display:block}
+.viewer-header{display:flex;justify-content:space-between;align-items:center;gap:1rem}
+.viewer-controls{display:flex;gap:0.5rem}
+.viewer-controls button{padding:0.35rem 0.6rem;border-radius:6px;border:none;background:var(--muted);color:var(--fg);cursor:pointer}
+.verses-list{list-style:none;padding:0;margin:0;margin-top:1rem}
+.verses-list li{padding:0.6rem;border-radius:6px;border:1px solid rgba(0,0,0,0.04);margin-bottom:0.5rem;background:linear-gradient(180deg, rgba(0,0,0,0.01), transparent)}
+.verses-list .arabic{font-family: 'Amiri', 'Scheherazade', serif; font-size:1.1rem;direction:rtl;text-align:right;margin:0 0 0.25rem 0}
+.verses-list .trans{margin:0;color:var(--muted)}
+
+.site-footer{padding:1rem;text-align:center;border-top:1px solid rgba(0,0,0,0.04)}
+
+@media (max-width:480px){
+  .controls input[type=search]{min-width:120px}
+  .site-header{flex-direction:column;align-items:stretch}
+}

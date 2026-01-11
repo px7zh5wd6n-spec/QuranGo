@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>QuranGo — Demo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>QuranGo</h1>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search surah (e.g. al)" aria-label="Search">
+      <button id="themeToggle" aria-pressed="false">Toggle Theme</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="listSection">
+      <ul id="items" class="items-list"></ul>
+      <p id="placeholder" class="info">No data available.</p>
+    </section>
+
+    <section id="viewer" class="viewer" aria-hidden="true">
+      <header class="viewer-header">
+        <h2 id="surahTitle">Surah</h2>
+        <div class="viewer-controls">
+          <button id="prevAya" title="Previous Aya">‹</button>
+          <button id="nextAya" title="Next Aya">›</button>
+          <button id="closeViewer" title="Close">Close</button>
+        </div>
+      </header>
+      <ol id="versesList" class="verses-list"></ol>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <small>© QuranGo</small>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="script.js" defer></script>
+</body>
+</html>
