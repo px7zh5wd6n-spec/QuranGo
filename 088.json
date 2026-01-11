@@ -1,0 +1,217 @@
+{
+  "surah_number": 88,
+  "name_en": "Al-Ghashiyah",
+  "name_ar": "الغاشية",
+  "verses_count": 26,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 5968,
+      "surah": 88,
+      "ayah": 1,
+      "verse_key": "88:1",
+      "text_ar": " هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "text_en_pickthall": "Hath there come unto thee tidings of the Overwhelming?"
+    },
+    {
+      "global_id": 5969,
+      "surah": 88,
+      "ayah": 2,
+      "verse_key": "88:2",
+      "text_ar": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+      "text_en_pickthall": "On that day (many) faces will be downcast,"
+    },
+    {
+      "global_id": 5970,
+      "surah": 88,
+      "ayah": 3,
+      "verse_key": "88:3",
+      "text_ar": "عَامِلَةٌ نَّاصِبَةٌ",
+      "text_en_pickthall": "Toiling, weary,"
+    },
+    {
+      "global_id": 5971,
+      "surah": 88,
+      "ayah": 4,
+      "verse_key": "88:4",
+      "text_ar": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "text_en_pickthall": "Scorched by burning fire,"
+    },
+    {
+      "global_id": 5972,
+      "surah": 88,
+      "ayah": 5,
+      "verse_key": "88:5",
+      "text_ar": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+      "text_en_pickthall": "Drinking from a boiling spring,"
+    },
+    {
+      "global_id": 5973,
+      "surah": 88,
+      "ayah": 6,
+      "verse_key": "88:6",
+      "text_ar": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "text_en_pickthall": "No food for them save bitter thorn-fruit"
+    },
+    {
+      "global_id": 5974,
+      "surah": 88,
+      "ayah": 7,
+      "verse_key": "88:7",
+      "text_ar": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+      "text_en_pickthall": "Which doth not nourish nor release from hunger."
+    },
+    {
+      "global_id": 5975,
+      "surah": 88,
+      "ayah": 8,
+      "verse_key": "88:8",
+      "text_ar": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "text_en_pickthall": "In that day other faces will be calm,"
+    },
+    {
+      "global_id": 5976,
+      "surah": 88,
+      "ayah": 9,
+      "verse_key": "88:9",
+      "text_ar": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "text_en_pickthall": "Glad for their effort past,"
+    },
+    {
+      "global_id": 5977,
+      "surah": 88,
+      "ayah": 10,
+      "verse_key": "88:10",
+      "text_ar": "فِى جَنَّةٍ عَالِيَةٍ",
+      "text_en_pickthall": "In a high Garden"
+    },
+    {
+      "global_id": 5978,
+      "surah": 88,
+      "ayah": 11,
+      "verse_key": "88:11",
+      "text_ar": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+      "text_en_pickthall": "Where they hear no idle speech,"
+    },
+    {
+      "global_id": 5979,
+      "surah": 88,
+      "ayah": 12,
+      "verse_key": "88:12",
+      "text_ar": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "text_en_pickthall": "Wherein is a gushing spring,"
+    },
+    {
+      "global_id": 5980,
+      "surah": 88,
+      "ayah": 13,
+      "verse_key": "88:13",
+      "text_ar": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "text_en_pickthall": "Wherein are couches raised"
+    },
+    {
+      "global_id": 5981,
+      "surah": 88,
+      "ayah": 14,
+      "verse_key": "88:14",
+      "text_ar": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "text_en_pickthall": "And goblets set at hand"
+    },
+    {
+      "global_id": 5982,
+      "surah": 88,
+      "ayah": 15,
+      "verse_key": "88:15",
+      "text_ar": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "text_en_pickthall": "And cushions ranged"
+    },
+    {
+      "global_id": 5983,
+      "surah": 88,
+      "ayah": 16,
+      "verse_key": "88:16",
+      "text_ar": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "text_en_pickthall": "And silken carpets spread."
+    },
+    {
+      "global_id": 5984,
+      "surah": 88,
+      "ayah": 17,
+      "verse_key": "88:17",
+      "text_ar": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "text_en_pickthall": "Will they not regard the camels, how they are created?"
+    },
+    {
+      "global_id": 5985,
+      "surah": 88,
+      "ayah": 18,
+      "verse_key": "88:18",
+      "text_ar": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "text_en_pickthall": "And the heaven, how it is raised?"
+    },
+    {
+      "global_id": 5986,
+      "surah": 88,
+      "ayah": 19,
+      "verse_key": "88:19",
+      "text_ar": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "text_en_pickthall": "And the hills, how they are set up?"
+    },
+    {
+      "global_id": 5987,
+      "surah": 88,
+      "ayah": 20,
+      "verse_key": "88:20",
+      "text_ar": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "text_en_pickthall": "And the earth, how it is spread?"
+    },
+    {
+      "global_id": 5988,
+      "surah": 88,
+      "ayah": 21,
+      "verse_key": "88:21",
+      "text_ar": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+      "text_en_pickthall": "Remind them, for thou art but a remembrancer,"
+    },
+    {
+      "global_id": 5989,
+      "surah": 88,
+      "ayah": 22,
+      "verse_key": "88:22",
+      "text_ar": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "text_en_pickthall": "Thou art not at all a warder over them."
+    },
+    {
+      "global_id": 5990,
+      "surah": 88,
+      "ayah": 23,
+      "verse_key": "88:23",
+      "text_ar": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "text_en_pickthall": "But whoso is averse and disbelieveth,"
+    },
+    {
+      "global_id": 5991,
+      "surah": 88,
+      "ayah": 24,
+      "verse_key": "88:24",
+      "text_ar": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "text_en_pickthall": "Allah will punish him with direst punishment."
+    },
+    {
+      "global_id": 5992,
+      "surah": 88,
+      "ayah": 25,
+      "verse_key": "88:25",
+      "text_ar": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "text_en_pickthall": "Lo! unto Us is their return"
+    },
+    {
+      "global_id": 5993,
+      "surah": 88,
+      "ayah": 26,
+      "verse_key": "88:26",
+      "text_ar": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "text_en_pickthall": "And Ours their reckoning."
+    }
+  ]
+}

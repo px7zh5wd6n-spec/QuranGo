@@ -1,0 +1,1465 @@
+{
+  "surah_number": 37,
+  "name_en": "As-Saffat",
+  "name_ar": "الصافات",
+  "verses_count": 182,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 3789,
+      "surah": 37,
+      "ayah": 1,
+      "verse_key": "37:1",
+      "text_ar": " وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
+      "text_en_pickthall": "By those who set the ranks in battle order"
+    },
+    {
+      "global_id": 3790,
+      "surah": 37,
+      "ayah": 2,
+      "verse_key": "37:2",
+      "text_ar": "فَٱلزَّٰجِرَٰتِ زَجْرًا",
+      "text_en_pickthall": "And those who drive away (the wicked) with reproof"
+    },
+    {
+      "global_id": 3791,
+      "surah": 37,
+      "ayah": 3,
+      "verse_key": "37:3",
+      "text_ar": "فَٱلتَّـٰلِيَـٰتِ ذِكْرًا",
+      "text_en_pickthall": "And those who read (the Word) for a reminder,"
+    },
+    {
+      "global_id": 3792,
+      "surah": 37,
+      "ayah": 4,
+      "verse_key": "37:4",
+      "text_ar": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌ",
+      "text_en_pickthall": "Lo! thy Lord is surely One;"
+    },
+    {
+      "global_id": 3793,
+      "surah": 37,
+      "ayah": 5,
+      "verse_key": "37:5",
+      "text_ar": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَـٰرِقِ",
+      "text_en_pickthall": "Lord of the heavens and of the earth and all that is between them, and Lord of the sun´s risings."
+    },
+    {
+      "global_id": 3794,
+      "surah": 37,
+      "ayah": 6,
+      "verse_key": "37:6",
+      "text_ar": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ",
+      "text_en_pickthall": "Lo! We have adorned the lowest heaven with an ornament, the planets;"
+    },
+    {
+      "global_id": 3795,
+      "surah": 37,
+      "ayah": 7,
+      "verse_key": "37:7",
+      "text_ar": "وَحِفْظًا مِّن كُلِّ شَيْطَـٰنٍ مَّارِدٍ",
+      "text_en_pickthall": "With security from every froward devil."
+    },
+    {
+      "global_id": 3796,
+      "surah": 37,
+      "ayah": 8,
+      "verse_key": "37:8",
+      "text_ar": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
+      "text_en_pickthall": "They cannot listen to the Highest Chiefs for they are pelted from every side,"
+    },
+    {
+      "global_id": 3797,
+      "surah": 37,
+      "ayah": 9,
+      "verse_key": "37:9",
+      "text_ar": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+      "text_en_pickthall": "Outcast, and theirs is a perpetual torment;"
+    },
+    {
+      "global_id": 3798,
+      "surah": 37,
+      "ayah": 10,
+      "verse_key": "37:10",
+      "text_ar": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ",
+      "text_en_pickthall": "Save him who snatcheth a fragment, and there pursueth him a piercing flame."
+    },
+    {
+      "global_id": 3799,
+      "surah": 37,
+      "ayah": 11,
+      "verse_key": "37:11",
+      "text_ar": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَـٰهُم مِّن طِينٍ لَّازِبٍۭ",
+      "text_en_pickthall": "Then ask them (O Muhammad): Are they stronger as a creation, or those (others) whom we have created? Lo! We created them of plastic clay."
+    },
+    {
+      "global_id": 3800,
+      "surah": 37,
+      "ayah": 12,
+      "verse_key": "37:12",
+      "text_ar": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+      "text_en_pickthall": "Nay, but thou dost marvel when they mock"
+    },
+    {
+      "global_id": 3801,
+      "surah": 37,
+      "ayah": 13,
+      "verse_key": "37:13",
+      "text_ar": "وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ",
+      "text_en_pickthall": "And heed not when they are reminded,"
+    },
+    {
+      "global_id": 3802,
+      "surah": 37,
+      "ayah": 14,
+      "verse_key": "37:14",
+      "text_ar": "وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ",
+      "text_en_pickthall": "And seek to scoff when they behold a portent."
+    },
+    {
+      "global_id": 3803,
+      "surah": 37,
+      "ayah": 15,
+      "verse_key": "37:15",
+      "text_ar": "وَقَالُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "text_en_pickthall": "And they say: Lo! this is mere magic;"
+    },
+    {
+      "global_id": 3804,
+      "surah": 37,
+      "ayah": 16,
+      "verse_key": "37:16",
+      "text_ar": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "text_en_pickthall": "When we are dead and have become dust and bones, shall we then, forsooth, be raised (again)?"
+    },
+    {
+      "global_id": 3805,
+      "surah": 37,
+      "ayah": 17,
+      "verse_key": "37:17",
+      "text_ar": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "text_en_pickthall": "And our forefathers?"
+    },
+    {
+      "global_id": 3806,
+      "surah": 37,
+      "ayah": 18,
+      "verse_key": "37:18",
+      "text_ar": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+      "text_en_pickthall": "Say (O Muhammad): Ye, in truth; and ye will be brought low."
+    },
+    {
+      "global_id": 3807,
+      "surah": 37,
+      "ayah": 19,
+      "verse_key": "37:19",
+      "text_ar": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
+      "text_en_pickthall": "There is but one Shout, and lo! they behold,"
+    },
+    {
+      "global_id": 3808,
+      "surah": 37,
+      "ayah": 20,
+      "verse_key": "37:20",
+      "text_ar": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا يَوْمُ ٱلدِّينِ",
+      "text_en_pickthall": "And say: Ah, woe for us! This is the Day of Judgment."
+    },
+    {
+      "global_id": 3809,
+      "surah": 37,
+      "ayah": 21,
+      "verse_key": "37:21",
+      "text_ar": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "text_en_pickthall": "This is the Day of Separation, which ye used to deny."
+    },
+    {
+      "global_id": 3810,
+      "surah": 37,
+      "ayah": 22,
+      "verse_key": "37:22",
+      "text_ar": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
+      "text_en_pickthall": "(And it is said unto the angels): Assemble those who did wrong, together with their wives and what they used to worship"
+    },
+    {
+      "global_id": 3811,
+      "surah": 37,
+      "ayah": 23,
+      "verse_key": "37:23",
+      "text_ar": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
+      "text_en_pickthall": "Instead of Allah, and lead them to the path to hell;"
+    },
+    {
+      "global_id": 3812,
+      "surah": 37,
+      "ayah": 24,
+      "verse_key": "37:24",
+      "text_ar": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ",
+      "text_en_pickthall": "And stop them, for they must be questioned."
+    },
+    {
+      "global_id": 3813,
+      "surah": 37,
+      "ayah": 25,
+      "verse_key": "37:25",
+      "text_ar": "مَا لَكُمْ لَا تَنَاصَرُونَ",
+      "text_en_pickthall": "What aileth you that ye help not one another?"
+    },
+    {
+      "global_id": 3814,
+      "surah": 37,
+      "ayah": 26,
+      "verse_key": "37:26",
+      "text_ar": "بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ",
+      "text_en_pickthall": "Nay, but this day they make full submission."
+    },
+    {
+      "global_id": 3815,
+      "surah": 37,
+      "ayah": 27,
+      "verse_key": "37:27",
+      "text_ar": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "text_en_pickthall": "And some of them draw near unto others, mutually questioning."
+    },
+    {
+      "global_id": 3816,
+      "surah": 37,
+      "ayah": 28,
+      "verse_key": "37:28",
+      "text_ar": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ",
+      "text_en_pickthall": "They say: Lo! ye used to come unto us, imposing, (swearing that ye spoke the truth)."
+    },
+    {
+      "global_id": 3817,
+      "surah": 37,
+      "ayah": 29,
+      "verse_key": "37:29",
+      "text_ar": "قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ",
+      "text_en_pickthall": "They answer: Nay, but ye (yourselves) were not believers."
+    },
+    {
+      "global_id": 3818,
+      "surah": 37,
+      "ayah": 30,
+      "verse_key": "37:30",
+      "text_ar": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَـٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًا طَـٰغِينَ",
+      "text_en_pickthall": "We had no power over you, but ye were wayward folk."
+    },
+    {
+      "global_id": 3819,
+      "surah": 37,
+      "ayah": 31,
+      "verse_key": "37:31",
+      "text_ar": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ",
+      "text_en_pickthall": "Now the Word of our Lord hath been fulfilled concerning us. Lo! we are about to taste (the doom)."
+    },
+    {
+      "global_id": 3820,
+      "surah": 37,
+      "ayah": 32,
+      "verse_key": "37:32",
+      "text_ar": "فَأَغْوَيْنَـٰكُمْ إِنَّا كُنَّا غَـٰوِينَ",
+      "text_en_pickthall": "Thus we misled you. Lo! we were (ourselves) astray."
+    },
+    {
+      "global_id": 3821,
+      "surah": 37,
+      "ayah": 33,
+      "verse_key": "37:33",
+      "text_ar": "فَإِنَّهُمْ يَوْمَئِذٍ فِى ٱلْعَذَابِ مُشْتَرِكُونَ",
+      "text_en_pickthall": "Then lo! this day they (both) are sharers in the doom."
+    },
+    {
+      "global_id": 3822,
+      "surah": 37,
+      "ayah": 34,
+      "verse_key": "37:34",
+      "text_ar": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "text_en_pickthall": "Lo! thus deal We with the guilty."
+    },
+    {
+      "global_id": 3823,
+      "surah": 37,
+      "ayah": 35,
+      "verse_key": "37:35",
+      "text_ar": "إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ",
+      "text_en_pickthall": "For when it was said unto them, There is no Allah save Allah, they were scornful"
+    },
+    {
+      "global_id": 3824,
+      "surah": 37,
+      "ayah": 36,
+      "verse_key": "37:36",
+      "text_ar": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ",
+      "text_en_pickthall": "And said: Shall we forsake our gods for a mad poet?"
+    },
+    {
+      "global_id": 3825,
+      "surah": 37,
+      "ayah": 37,
+      "verse_key": "37:37",
+      "text_ar": "بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ",
+      "text_en_pickthall": "Nay, but he brought the Truth, and he confirmed those sent (before him)."
+    },
+    {
+      "global_id": 3826,
+      "surah": 37,
+      "ayah": 38,
+      "verse_key": "37:38",
+      "text_ar": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ",
+      "text_en_pickthall": "Lo! (now) verily ye taste the painful doom -"
+    },
+    {
+      "global_id": 3827,
+      "surah": 37,
+      "ayah": 39,
+      "verse_key": "37:39",
+      "text_ar": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "text_en_pickthall": "Ye are requited naught save what ye did -"
+    },
+    {
+      "global_id": 3828,
+      "surah": 37,
+      "ayah": 40,
+      "verse_key": "37:40",
+      "text_ar": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "text_en_pickthall": "Save single-minded slaves of Allah;"
+    },
+    {
+      "global_id": 3829,
+      "surah": 37,
+      "ayah": 41,
+      "verse_key": "37:41",
+      "text_ar": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ",
+      "text_en_pickthall": "For them there is a known provision,"
+    },
+    {
+      "global_id": 3830,
+      "surah": 37,
+      "ayah": 42,
+      "verse_key": "37:42",
+      "text_ar": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
+      "text_en_pickthall": "Fruits. And they will be honoured"
+    },
+    {
+      "global_id": 3831,
+      "surah": 37,
+      "ayah": 43,
+      "verse_key": "37:43",
+      "text_ar": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+      "text_en_pickthall": "In the Gardens of delight,"
+    },
+    {
+      "global_id": 3832,
+      "surah": 37,
+      "ayah": 44,
+      "verse_key": "37:44",
+      "text_ar": "عَلَىٰ سُرُرٍ مُّتَقَـٰبِلِينَ",
+      "text_en_pickthall": "On couches facing one another;"
+    },
+    {
+      "global_id": 3833,
+      "surah": 37,
+      "ayah": 45,
+      "verse_key": "37:45",
+      "text_ar": "يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ",
+      "text_en_pickthall": "A cup from a gushing spring is brought round for them,"
+    },
+    {
+      "global_id": 3834,
+      "surah": 37,
+      "ayah": 46,
+      "verse_key": "37:46",
+      "text_ar": "بَيْضَآءَ لَذَّةٍ لِّلشَّـٰرِبِينَ",
+      "text_en_pickthall": "White, delicious to the drinkers,"
+    },
+    {
+      "global_id": 3835,
+      "surah": 37,
+      "ayah": 47,
+      "verse_key": "37:47",
+      "text_ar": "لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنزَفُونَ",
+      "text_en_pickthall": "Wherein there is no headache nor are they made mad thereby."
+    },
+    {
+      "global_id": 3836,
+      "surah": 37,
+      "ayah": 48,
+      "verse_key": "37:48",
+      "text_ar": "وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ عِينٌ",
+      "text_en_pickthall": "And with them are those of modest gaze, with lovely eyes,"
+    },
+    {
+      "global_id": 3837,
+      "surah": 37,
+      "ayah": 49,
+      "verse_key": "37:49",
+      "text_ar": "كَأَنَّهُنَّ بَيْضٌ مَّكْنُونٌ",
+      "text_en_pickthall": "(Pure) as they were hidden eggs (of the ostrich)."
+    },
+    {
+      "global_id": 3838,
+      "surah": 37,
+      "ayah": 50,
+      "verse_key": "37:50",
+      "text_ar": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "text_en_pickthall": "And some of them draw near unto others, mutually questioning."
+    },
+    {
+      "global_id": 3839,
+      "surah": 37,
+      "ayah": 51,
+      "verse_key": "37:51",
+      "text_ar": "قَالَ قَآئِلٌ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌ",
+      "text_en_pickthall": "A speaker of them saith: Lo! I had a comrade"
+    },
+    {
+      "global_id": 3840,
+      "surah": 37,
+      "ayah": 52,
+      "verse_key": "37:52",
+      "text_ar": "يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ",
+      "text_en_pickthall": "Who used to say: Art thou in truth of those who put faith (in his words)?"
+    },
+    {
+      "global_id": 3841,
+      "surah": 37,
+      "ayah": 53,
+      "verse_key": "37:53",
+      "text_ar": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَدِينُونَ",
+      "text_en_pickthall": "Can we, when we are dead and have become mere dust and bones - can we (then) verily be brought to book?"
+    },
+    {
+      "global_id": 3842,
+      "surah": 37,
+      "ayah": 54,
+      "verse_key": "37:54",
+      "text_ar": "قَالَ هَلْ أَنتُم مُّطَّلِعُونَ",
+      "text_en_pickthall": "He saith: Will ye look?"
+    },
+    {
+      "global_id": 3843,
+      "surah": 37,
+      "ayah": 55,
+      "verse_key": "37:55",
+      "text_ar": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
+      "text_en_pickthall": "Then looketh he and seeth him in the depth of hell."
+    },
+    {
+      "global_id": 3844,
+      "surah": 37,
+      "ayah": 56,
+      "verse_key": "37:56",
+      "text_ar": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ",
+      "text_en_pickthall": "He saith: By Allah, thou verily didst all but cause my ruin,"
+    },
+    {
+      "global_id": 3845,
+      "surah": 37,
+      "ayah": 57,
+      "verse_key": "37:57",
+      "text_ar": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ",
+      "text_en_pickthall": "And had it not been for the favour of my Lord, I too had been of those haled forth (to doom)."
+    },
+    {
+      "global_id": 3846,
+      "surah": 37,
+      "ayah": 58,
+      "verse_key": "37:58",
+      "text_ar": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+      "text_en_pickthall": "Are we then not to die"
+    },
+    {
+      "global_id": 3847,
+      "surah": 37,
+      "ayah": 59,
+      "verse_key": "37:59",
+      "text_ar": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "text_en_pickthall": "Saving our former death, and are we not to be punished?"
+    },
+    {
+      "global_id": 3848,
+      "surah": 37,
+      "ayah": 60,
+      "verse_key": "37:60",
+      "text_ar": "إِنَّ هَـٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "text_en_pickthall": "Lo! this is the supreme triumph."
+    },
+    {
+      "global_id": 3849,
+      "surah": 37,
+      "ayah": 61,
+      "verse_key": "37:61",
+      "text_ar": "لِمِثْلِ هَـٰذَا فَلْيَعْمَلِ ٱلْعَـٰمِلُونَ",
+      "text_en_pickthall": "For the like of this, then, let the workers work."
+    },
+    {
+      "global_id": 3850,
+      "surah": 37,
+      "ayah": 62,
+      "verse_key": "37:62",
+      "text_ar": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
+      "text_en_pickthall": "Is this better as a welcome, or the tree of Zaqqum?"
+    },
+    {
+      "global_id": 3851,
+      "surah": 37,
+      "ayah": 63,
+      "verse_key": "37:63",
+      "text_ar": "إِنَّا جَعَلْنَـٰهَا فِتْنَةً لِّلظَّـٰلِمِينَ",
+      "text_en_pickthall": "Lo! We have appointed it a torment for wrong-doers."
+    },
+    {
+      "global_id": 3852,
+      "surah": 37,
+      "ayah": 64,
+      "verse_key": "37:64",
+      "text_ar": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ",
+      "text_en_pickthall": "Lo! it is a tree that springeth in the heart of hell."
+    },
+    {
+      "global_id": 3853,
+      "surah": 37,
+      "ayah": 65,
+      "verse_key": "37:65",
+      "text_ar": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَـٰطِينِ",
+      "text_en_pickthall": "Its crop is as it were the heads of devils"
+    },
+    {
+      "global_id": 3854,
+      "surah": 37,
+      "ayah": 66,
+      "verse_key": "37:66",
+      "text_ar": "فَإِنَّهُمْ لَـَٔاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "text_en_pickthall": "And lo! they verily must eat thereof, and fill (their) bellies therewith."
+    },
+    {
+      "global_id": 3855,
+      "surah": 37,
+      "ayah": 67,
+      "verse_key": "37:67",
+      "text_ar": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيمٍ",
+      "text_en_pickthall": "And afterward, lo! thereupon they have a drink of boiling water"
+    },
+    {
+      "global_id": 3856,
+      "surah": 37,
+      "ayah": 68,
+      "verse_key": "37:68",
+      "text_ar": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ",
+      "text_en_pickthall": "And afterward, lo! their return is surely unto hell."
+    },
+    {
+      "global_id": 3857,
+      "surah": 37,
+      "ayah": 69,
+      "verse_key": "37:69",
+      "text_ar": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
+      "text_en_pickthall": "They indeed found their fathers astray,"
+    },
+    {
+      "global_id": 3858,
+      "surah": 37,
+      "ayah": 70,
+      "verse_key": "37:70",
+      "text_ar": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ يُهْرَعُونَ",
+      "text_en_pickthall": "But they make haste (to follow) in their footsteps."
+    },
+    {
+      "global_id": 3859,
+      "surah": 37,
+      "ayah": 71,
+      "verse_key": "37:71",
+      "text_ar": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ",
+      "text_en_pickthall": "And verily most of the men of old went astray before them,"
+    },
+    {
+      "global_id": 3860,
+      "surah": 37,
+      "ayah": 72,
+      "verse_key": "37:72",
+      "text_ar": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ",
+      "text_en_pickthall": "And verily We sent among them warners."
+    },
+    {
+      "global_id": 3861,
+      "surah": 37,
+      "ayah": 73,
+      "verse_key": "37:73",
+      "text_ar": "فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُنذَرِينَ",
+      "text_en_pickthall": "Then see the nature of the consequence for those warned,"
+    },
+    {
+      "global_id": 3862,
+      "surah": 37,
+      "ayah": 74,
+      "verse_key": "37:74",
+      "text_ar": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "text_en_pickthall": "Save single-minded slaves of Allah."
+    },
+    {
+      "global_id": 3863,
+      "surah": 37,
+      "ayah": 75,
+      "verse_key": "37:75",
+      "text_ar": "وَلَقَدْ نَادَىٰنَا نُوحٌ فَلَنِعْمَ ٱلْمُجِيبُونَ",
+      "text_en_pickthall": "And Noah verily prayed unto Us, and gracious was the Hearer of his prayer"
+    },
+    {
+      "global_id": 3864,
+      "surah": 37,
+      "ayah": 76,
+      "verse_key": "37:76",
+      "text_ar": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "text_en_pickthall": "And We saved him and his household from the great distress,"
+    },
+    {
+      "global_id": 3865,
+      "surah": 37,
+      "ayah": 77,
+      "verse_key": "37:77",
+      "text_ar": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
+      "text_en_pickthall": "And made his seed the survivors,"
+    },
+    {
+      "global_id": 3866,
+      "surah": 37,
+      "ayah": 78,
+      "verse_key": "37:78",
+      "text_ar": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+      "text_en_pickthall": "And left for him among the later folk (the salutation):"
+    },
+    {
+      "global_id": 3867,
+      "surah": 37,
+      "ayah": 79,
+      "verse_key": "37:79",
+      "text_ar": "سَلَـٰمٌ عَلَىٰ نُوحٍ فِى ٱلْعَـٰلَمِينَ",
+      "text_en_pickthall": "Peace be unto Noah among the peoples!"
+    },
+    {
+      "global_id": 3868,
+      "surah": 37,
+      "ayah": 80,
+      "verse_key": "37:80",
+      "text_ar": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "text_en_pickthall": "Lo! thus do We reward the good."
+    },
+    {
+      "global_id": 3869,
+      "surah": 37,
+      "ayah": 81,
+      "verse_key": "37:81",
+      "text_ar": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "text_en_pickthall": "Lo! he is one of Our believing slaves."
+    },
+    {
+      "global_id": 3870,
+      "surah": 37,
+      "ayah": 82,
+      "verse_key": "37:82",
+      "text_ar": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ",
+      "text_en_pickthall": "Then We did drown the others."
+    },
+    {
+      "global_id": 3871,
+      "surah": 37,
+      "ayah": 83,
+      "verse_key": "37:83",
+      "text_ar": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ",
+      "text_en_pickthall": "And lo! of his persuasion verily was Abraham"
+    },
+    {
+      "global_id": 3872,
+      "surah": 37,
+      "ayah": 84,
+      "verse_key": "37:84",
+      "text_ar": "إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍ سَلِيمٍ",
+      "text_en_pickthall": "When he came unto his Lord with a whole heart;"
+    },
+    {
+      "global_id": 3873,
+      "surah": 37,
+      "ayah": 85,
+      "verse_key": "37:85",
+      "text_ar": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
+      "text_en_pickthall": "When he said unto his father and his folk: What is it that ye worship?"
+    },
+    {
+      "global_id": 3874,
+      "surah": 37,
+      "ayah": 86,
+      "verse_key": "37:86",
+      "text_ar": "أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ",
+      "text_en_pickthall": "Is it a falsehood - gods beside Allah - that ye desire?"
+    },
+    {
+      "global_id": 3875,
+      "surah": 37,
+      "ayah": 87,
+      "verse_key": "37:87",
+      "text_ar": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+      "text_en_pickthall": "What then is your opinion of the Lord of the Worlds?"
+    },
+    {
+      "global_id": 3876,
+      "surah": 37,
+      "ayah": 88,
+      "verse_key": "37:88",
+      "text_ar": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+      "text_en_pickthall": "And he glanced a glance at the stars"
+    },
+    {
+      "global_id": 3877,
+      "surah": 37,
+      "ayah": 89,
+      "verse_key": "37:89",
+      "text_ar": "فَقَالَ إِنِّى سَقِيمٌ",
+      "text_en_pickthall": "Then said: Lo! I feel sick!"
+    },
+    {
+      "global_id": 3878,
+      "surah": 37,
+      "ayah": 90,
+      "verse_key": "37:90",
+      "text_ar": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ",
+      "text_en_pickthall": "And they turned their backs and went away from him."
+    },
+    {
+      "global_id": 3879,
+      "surah": 37,
+      "ayah": 91,
+      "verse_key": "37:91",
+      "text_ar": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+      "text_en_pickthall": "Then turned he to their gods and said: Will ye not eat?"
+    },
+    {
+      "global_id": 3880,
+      "surah": 37,
+      "ayah": 92,
+      "verse_key": "37:92",
+      "text_ar": "مَا لَكُمْ لَا تَنطِقُونَ",
+      "text_en_pickthall": "What aileth you that ye speak not?"
+    },
+    {
+      "global_id": 3881,
+      "surah": 37,
+      "ayah": 93,
+      "verse_key": "37:93",
+      "text_ar": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+      "text_en_pickthall": "Then he attacked them, striking with his right hand."
+    },
+    {
+      "global_id": 3882,
+      "surah": 37,
+      "ayah": 94,
+      "verse_key": "37:94",
+      "text_ar": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ",
+      "text_en_pickthall": "And (his people) came toward him, hastening."
+    },
+    {
+      "global_id": 3883,
+      "surah": 37,
+      "ayah": 95,
+      "verse_key": "37:95",
+      "text_ar": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+      "text_en_pickthall": "He said: Worship ye that which ye yourselves do carve"
+    },
+    {
+      "global_id": 3884,
+      "surah": 37,
+      "ayah": 96,
+      "verse_key": "37:96",
+      "text_ar": "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+      "text_en_pickthall": "When Allah hath created you and what ye make?"
+    },
+    {
+      "global_id": 3885,
+      "surah": 37,
+      "ayah": 97,
+      "verse_key": "37:97",
+      "text_ar": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+      "text_en_pickthall": "They said: Build for him a building and fling him in the red-hotfire."
+    },
+    {
+      "global_id": 3886,
+      "surah": 37,
+      "ayah": 98,
+      "verse_key": "37:98",
+      "text_ar": "فَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَسْفَلِينَ",
+      "text_en_pickthall": "And they designed a snare for him, but We made them the undermost."
+    },
+    {
+      "global_id": 3887,
+      "surah": 37,
+      "ayah": 99,
+      "verse_key": "37:99",
+      "text_ar": "وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ",
+      "text_en_pickthall": "And he said: Lo! I am going unto my Lord Who will guide me."
+    },
+    {
+      "global_id": 3888,
+      "surah": 37,
+      "ayah": 100,
+      "verse_key": "37:100",
+      "text_ar": "رَبِّ هَبْ لِى مِنَ ٱلصَّـٰلِحِينَ",
+      "text_en_pickthall": "My Lord! Vouchsafe me of the righteous."
+    },
+    {
+      "global_id": 3889,
+      "surah": 37,
+      "ayah": 101,
+      "verse_key": "37:101",
+      "text_ar": "فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍ",
+      "text_en_pickthall": "So We gave him tidings of a gentle son."
+    },
+    {
+      "global_id": 3890,
+      "surah": 37,
+      "ayah": 102,
+      "verse_key": "37:102",
+      "text_ar": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+      "text_en_pickthall": "And when (his son) was old enough to walk with him, (Abraham) said: O my dear son, I have seen in a dream that I must sacrifice thee. So look, what thinkest thou? He said: O my father! Do that which thou art commanded. Allah willing, thou shalt find me of the steadfast."
+    },
+    {
+      "global_id": 3891,
+      "surah": 37,
+      "ayah": 103,
+      "verse_key": "37:103",
+      "text_ar": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+      "text_en_pickthall": "Then, when they had both surrendered (to Allah), and he had flung him down upon his face,"
+    },
+    {
+      "global_id": 3892,
+      "surah": 37,
+      "ayah": 104,
+      "verse_key": "37:104",
+      "text_ar": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ",
+      "text_en_pickthall": "We called unto him: O Abraham!"
+    },
+    {
+      "global_id": 3893,
+      "surah": 37,
+      "ayah": 105,
+      "verse_key": "37:105",
+      "text_ar": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "text_en_pickthall": "Thou hast already fulfilled the vision. Lo! thus do We reward the good."
+    },
+    {
+      "global_id": 3894,
+      "surah": 37,
+      "ayah": 106,
+      "verse_key": "37:106",
+      "text_ar": "إِنَّ هَـٰذَا لَهُوَ ٱلْبَلَـٰٓؤُا۟ ٱلْمُبِينُ",
+      "text_en_pickthall": "Lo! that verily was a clear test."
+    },
+    {
+      "global_id": 3895,
+      "surah": 37,
+      "ayah": 107,
+      "verse_key": "37:107",
+      "text_ar": "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ",
+      "text_en_pickthall": "Then We ransomed him with a tremendous victim."
+    },
+    {
+      "global_id": 3896,
+      "surah": 37,
+      "ayah": 108,
+      "verse_key": "37:108",
+      "text_ar": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+      "text_en_pickthall": "And We left for him among the later folk (the salutation):"
+    },
+    {
+      "global_id": 3897,
+      "surah": 37,
+      "ayah": 109,
+      "verse_key": "37:109",
+      "text_ar": "سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ",
+      "text_en_pickthall": "Peace be unto Abraham!"
+    },
+    {
+      "global_id": 3898,
+      "surah": 37,
+      "ayah": 110,
+      "verse_key": "37:110",
+      "text_ar": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "text_en_pickthall": "Thus do We reward the good."
+    },
+    {
+      "global_id": 3899,
+      "surah": 37,
+      "ayah": 111,
+      "verse_key": "37:111",
+      "text_ar": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "text_en_pickthall": "Lo! he is one of Our believing slaves."
+    },
+    {
+      "global_id": 3900,
+      "surah": 37,
+      "ayah": 112,
+      "verse_key": "37:112",
+      "text_ar": "وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ",
+      "text_en_pickthall": "And we gave him tidings of the birth of Isaac, a prophet of the righteous."
+    },
+    {
+      "global_id": 3901,
+      "surah": 37,
+      "ayah": 113,
+      "verse_key": "37:113",
+      "text_ar": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ",
+      "text_en_pickthall": "And We blessed him and Isaac. And of their seed are some who do good, and some who plainly wrong themselves."
+    },
+    {
+      "global_id": 3902,
+      "surah": 37,
+      "ayah": 114,
+      "verse_key": "37:114",
+      "text_ar": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+      "text_en_pickthall": "And We verily gave grace unto Moses and Aaron,"
+    },
+    {
+      "global_id": 3903,
+      "surah": 37,
+      "ayah": 115,
+      "verse_key": "37:115",
+      "text_ar": "وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "text_en_pickthall": "And saved them and their people from the great distress,"
+    },
+    {
+      "global_id": 3904,
+      "surah": 37,
+      "ayah": 116,
+      "verse_key": "37:116",
+      "text_ar": "وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَـٰلِبِينَ",
+      "text_en_pickthall": "And helped them so that they became the victors."
+    },
+    {
+      "global_id": 3905,
+      "surah": 37,
+      "ayah": 117,
+      "verse_key": "37:117",
+      "text_ar": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ",
+      "text_en_pickthall": "And We gave them the clear Scripture"
+    },
+    {
+      "global_id": 3906,
+      "surah": 37,
+      "ayah": 118,
+      "verse_key": "37:118",
+      "text_ar": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "text_en_pickthall": "And showed them the right path."
+    },
+    {
+      "global_id": 3907,
+      "surah": 37,
+      "ayah": 119,
+      "verse_key": "37:119",
+      "text_ar": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْـَٔاخِرِينَ",
+      "text_en_pickthall": "And We left for them among the later folk (the salutation):"
+    },
+    {
+      "global_id": 3908,
+      "surah": 37,
+      "ayah": 120,
+      "verse_key": "37:120",
+      "text_ar": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+      "text_en_pickthall": "Peace be unto Moses and Aaron!"
+    },
+    {
+      "global_id": 3909,
+      "surah": 37,
+      "ayah": 121,
+      "verse_key": "37:121",
+      "text_ar": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "text_en_pickthall": "Lo! thus do We reward the good."
+    },
+    {
+      "global_id": 3910,
+      "surah": 37,
+      "ayah": 122,
+      "verse_key": "37:122",
+      "text_ar": "إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "text_en_pickthall": "Lo! they are two of Our believing slaves."
+    },
+    {
+      "global_id": 3911,
+      "surah": 37,
+      "ayah": 123,
+      "verse_key": "37:123",
+      "text_ar": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "text_en_pickthall": "And lo! Elias was of those sent (to warn),"
+    },
+    {
+      "global_id": 3912,
+      "surah": 37,
+      "ayah": 124,
+      "verse_key": "37:124",
+      "text_ar": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+      "text_en_pickthall": "When he said unto his folk: Will ye not ward off (evil)?"
+    },
+    {
+      "global_id": 3913,
+      "surah": 37,
+      "ayah": 125,
+      "verse_key": "37:125",
+      "text_ar": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
+      "text_en_pickthall": "Will ye cry unto Baal and forsake the Best of creators,"
+    },
+    {
+      "global_id": 3914,
+      "surah": 37,
+      "ayah": 126,
+      "verse_key": "37:126",
+      "text_ar": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "text_en_pickthall": "Allah, your Lord and Lord of your forefathers?"
+    },
+    {
+      "global_id": 3915,
+      "surah": 37,
+      "ayah": 127,
+      "verse_key": "37:127",
+      "text_ar": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+      "text_en_pickthall": "But they denied him, so they surely will be haled forth (to the doom)"
+    },
+    {
+      "global_id": 3916,
+      "surah": 37,
+      "ayah": 128,
+      "verse_key": "37:128",
+      "text_ar": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "text_en_pickthall": "Save single-minded slaves of Allah."
+    },
+    {
+      "global_id": 3917,
+      "surah": 37,
+      "ayah": 129,
+      "verse_key": "37:129",
+      "text_ar": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+      "text_en_pickthall": "And we left for him among the later folk (the salutation):"
+    },
+    {
+      "global_id": 3918,
+      "surah": 37,
+      "ayah": 130,
+      "verse_key": "37:130",
+      "text_ar": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+      "text_en_pickthall": "Peace be unto Elias!"
+    },
+    {
+      "global_id": 3919,
+      "surah": 37,
+      "ayah": 131,
+      "verse_key": "37:131",
+      "text_ar": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "text_en_pickthall": "Lo! thus do We reward the good."
+    },
+    {
+      "global_id": 3920,
+      "surah": 37,
+      "ayah": 132,
+      "verse_key": "37:132",
+      "text_ar": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "text_en_pickthall": "Lo! he is one of our believing slaves."
+    },
+    {
+      "global_id": 3921,
+      "surah": 37,
+      "ayah": 133,
+      "verse_key": "37:133",
+      "text_ar": "وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ",
+      "text_en_pickthall": "And lo! Lot verily was of those sent (to warn)."
+    },
+    {
+      "global_id": 3922,
+      "surah": 37,
+      "ayah": 134,
+      "verse_key": "37:134",
+      "text_ar": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "text_en_pickthall": "When We saved him and his household, every one,"
+    },
+    {
+      "global_id": 3923,
+      "surah": 37,
+      "ayah": 135,
+      "verse_key": "37:135",
+      "text_ar": "إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ",
+      "text_en_pickthall": "Save an old woman among those who stayed behind;"
+    },
+    {
+      "global_id": 3924,
+      "surah": 37,
+      "ayah": 136,
+      "verse_key": "37:136",
+      "text_ar": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ",
+      "text_en_pickthall": "Then We destroyed the others."
+    },
+    {
+      "global_id": 3925,
+      "surah": 37,
+      "ayah": 137,
+      "verse_key": "37:137",
+      "text_ar": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+      "text_en_pickthall": "And lo! ye verily pass by (the ruin of) them in the morning"
+    },
+    {
+      "global_id": 3926,
+      "surah": 37,
+      "ayah": 138,
+      "verse_key": "37:138",
+      "text_ar": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+      "text_en_pickthall": "And at night-time; have ye then no sense?"
+    },
+    {
+      "global_id": 3927,
+      "surah": 37,
+      "ayah": 139,
+      "verse_key": "37:139",
+      "text_ar": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "text_en_pickthall": "And lo! Jonah verily was of those sent (to warn)"
+    },
+    {
+      "global_id": 3928,
+      "surah": 37,
+      "ayah": 140,
+      "verse_key": "37:140",
+      "text_ar": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "text_en_pickthall": "When he fled unto the laden ship,"
+    },
+    {
+      "global_id": 3929,
+      "surah": 37,
+      "ayah": 141,
+      "verse_key": "37:141",
+      "text_ar": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ",
+      "text_en_pickthall": "And then drew lots and was of those rejected;"
+    },
+    {
+      "global_id": 3930,
+      "surah": 37,
+      "ayah": 142,
+      "verse_key": "37:142",
+      "text_ar": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ",
+      "text_en_pickthall": "And the fish swallowed him while he was blameworthy;"
+    },
+    {
+      "global_id": 3931,
+      "surah": 37,
+      "ayah": 143,
+      "verse_key": "37:143",
+      "text_ar": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
+      "text_en_pickthall": "And had he not been one of those who glorify (Allah)"
+    },
+    {
+      "global_id": 3932,
+      "surah": 37,
+      "ayah": 144,
+      "verse_key": "37:144",
+      "text_ar": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "text_en_pickthall": "He would have tarried in its belly till the day when they are raised;"
+    },
+    {
+      "global_id": 3933,
+      "surah": 37,
+      "ayah": 145,
+      "verse_key": "37:145",
+      "text_ar": "۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ",
+      "text_en_pickthall": "Then We cast him on a desert shore while he was sick;"
+    },
+    {
+      "global_id": 3934,
+      "surah": 37,
+      "ayah": 146,
+      "verse_key": "37:146",
+      "text_ar": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+      "text_en_pickthall": "And We caused a tree of gourd to grow above him;"
+    },
+    {
+      "global_id": 3935,
+      "surah": 37,
+      "ayah": 147,
+      "verse_key": "37:147",
+      "text_ar": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+      "text_en_pickthall": "And We sent him to a hundred thousand (folk) or more"
+    },
+    {
+      "global_id": 3936,
+      "surah": 37,
+      "ayah": 148,
+      "verse_key": "37:148",
+      "text_ar": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
+      "text_en_pickthall": "And they believed, therefor We gave them comfort for a while."
+    },
+    {
+      "global_id": 3937,
+      "surah": 37,
+      "ayah": 149,
+      "verse_key": "37:149",
+      "text_ar": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ",
+      "text_en_pickthall": "Now ask them (O Muhammad): Hath thy Lord daughters whereas they have sons?"
+    },
+    {
+      "global_id": 3938,
+      "surah": 37,
+      "ayah": 150,
+      "verse_key": "37:150",
+      "text_ar": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ إِنَـٰثًا وَهُمْ شَـٰهِدُونَ",
+      "text_en_pickthall": "Or created We the angels females while they were present?"
+    },
+    {
+      "global_id": 3939,
+      "surah": 37,
+      "ayah": 151,
+      "verse_key": "37:151",
+      "text_ar": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
+      "text_en_pickthall": "Lo! it is of their falsehood that they say:"
+    },
+    {
+      "global_id": 3940,
+      "surah": 37,
+      "ayah": 152,
+      "verse_key": "37:152",
+      "text_ar": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+      "text_en_pickthall": "Allah hath begotten. Allah! verily they tell a lie."
+    },
+    {
+      "global_id": 3941,
+      "surah": 37,
+      "ayah": 153,
+      "verse_key": "37:153",
+      "text_ar": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ",
+      "text_en_pickthall": "(And again of their falsehood): He hath preferred daughters to sons."
+    },
+    {
+      "global_id": 3942,
+      "surah": 37,
+      "ayah": 154,
+      "verse_key": "37:154",
+      "text_ar": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+      "text_en_pickthall": "What aileth you? How judge ye?"
+    },
+    {
+      "global_id": 3943,
+      "surah": 37,
+      "ayah": 155,
+      "verse_key": "37:155",
+      "text_ar": "أَفَلَا تَذَكَّرُونَ",
+      "text_en_pickthall": "Will ye not then reflect?"
+    },
+    {
+      "global_id": 3944,
+      "surah": 37,
+      "ayah": 156,
+      "verse_key": "37:156",
+      "text_ar": "أَمْ لَكُمْ سُلْطَـٰنٌ مُّبِينٌ",
+      "text_en_pickthall": "Or have ye a clear warrant?"
+    },
+    {
+      "global_id": 3945,
+      "surah": 37,
+      "ayah": 157,
+      "verse_key": "37:157",
+      "text_ar": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+      "text_en_pickthall": "Then produce your writ, if ye are truthful."
+    },
+    {
+      "global_id": 3946,
+      "surah": 37,
+      "ayah": 158,
+      "verse_key": "37:158",
+      "text_ar": "وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
+      "text_en_pickthall": "And they imagine kinship between him and the jinn, whereas the jinn know well that they will be brought before (Him)."
+    },
+    {
+      "global_id": 3947,
+      "surah": 37,
+      "ayah": 159,
+      "verse_key": "37:159",
+      "text_ar": "سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "text_en_pickthall": "Glorified be Allah from that which they attribute (unto Him),"
+    },
+    {
+      "global_id": 3948,
+      "surah": 37,
+      "ayah": 160,
+      "verse_key": "37:160",
+      "text_ar": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "text_en_pickthall": "Save single-minded slaves of Allah."
+    },
+    {
+      "global_id": 3949,
+      "surah": 37,
+      "ayah": 161,
+      "verse_key": "37:161",
+      "text_ar": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+      "text_en_pickthall": "Lo! verily, ye and that which ye worship,"
+    },
+    {
+      "global_id": 3950,
+      "surah": 37,
+      "ayah": 162,
+      "verse_key": "37:162",
+      "text_ar": "مَآ أَنتُمْ عَلَيْهِ بِفَـٰتِنِينَ",
+      "text_en_pickthall": "Ye cannot excite (anyone) against Him."
+    },
+    {
+      "global_id": 3951,
+      "surah": 37,
+      "ayah": 163,
+      "verse_key": "37:163",
+      "text_ar": "إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ",
+      "text_en_pickthall": "Save him who is to burn in hell."
+    },
+    {
+      "global_id": 3952,
+      "surah": 37,
+      "ayah": 164,
+      "verse_key": "37:164",
+      "text_ar": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ",
+      "text_en_pickthall": "There is not one of us but hath his known position."
+    },
+    {
+      "global_id": 3953,
+      "surah": 37,
+      "ayah": 165,
+      "verse_key": "37:165",
+      "text_ar": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ",
+      "text_en_pickthall": "Lo! we, even we are they who set the ranks,"
+    },
+    {
+      "global_id": 3954,
+      "surah": 37,
+      "ayah": 166,
+      "verse_key": "37:166",
+      "text_ar": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+      "text_en_pickthall": "Lo! we, even we are they who hymn His praise"
+    },
+    {
+      "global_id": 3955,
+      "surah": 37,
+      "ayah": 167,
+      "verse_key": "37:167",
+      "text_ar": "وَإِن كَانُوا۟ لَيَقُولُونَ",
+      "text_en_pickthall": "And indeed they used to say:"
+    },
+    {
+      "global_id": 3956,
+      "surah": 37,
+      "ayah": 168,
+      "verse_key": "37:168",
+      "text_ar": "لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ",
+      "text_en_pickthall": "If we had but a reminder from the men of old"
+    },
+    {
+      "global_id": 3957,
+      "surah": 37,
+      "ayah": 169,
+      "verse_key": "37:169",
+      "text_ar": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "text_en_pickthall": "We would be single-minded slaves of Allah."
+    },
+    {
+      "global_id": 3958,
+      "surah": 37,
+      "ayah": 170,
+      "verse_key": "37:170",
+      "text_ar": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ",
+      "text_en_pickthall": "Yet (now that it is come) they disbelieve therein; but they will come to know."
+    },
+    {
+      "global_id": 3959,
+      "surah": 37,
+      "ayah": 171,
+      "verse_key": "37:171",
+      "text_ar": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ",
+      "text_en_pickthall": "And verily Our word went forth of old unto Our bondmen sent (to warn)"
+    },
+    {
+      "global_id": 3960,
+      "surah": 37,
+      "ayah": 172,
+      "verse_key": "37:172",
+      "text_ar": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ",
+      "text_en_pickthall": "That they verily would be helped,"
+    },
+    {
+      "global_id": 3961,
+      "surah": 37,
+      "ayah": 173,
+      "verse_key": "37:173",
+      "text_ar": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَـٰلِبُونَ",
+      "text_en_pickthall": "And that Our host, they verily would be the victors."
+    },
+    {
+      "global_id": 3962,
+      "surah": 37,
+      "ayah": 174,
+      "verse_key": "37:174",
+      "text_ar": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "text_en_pickthall": "So withdraw from them (O Muhammad) awhile,"
+    },
+    {
+      "global_id": 3963,
+      "surah": 37,
+      "ayah": 175,
+      "verse_key": "37:175",
+      "text_ar": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+      "text_en_pickthall": "And watch, for they will (soon) see."
+    },
+    {
+      "global_id": 3964,
+      "surah": 37,
+      "ayah": 176,
+      "verse_key": "37:176",
+      "text_ar": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "text_en_pickthall": "Would they hasten on Our doom?"
+    },
+    {
+      "global_id": 3965,
+      "surah": 37,
+      "ayah": 177,
+      "verse_key": "37:177",
+      "text_ar": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+      "text_en_pickthall": "But when it cometh home to them, then it will be a hapless morn for those who have been warned."
+    },
+    {
+      "global_id": 3966,
+      "surah": 37,
+      "ayah": 178,
+      "verse_key": "37:178",
+      "text_ar": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "text_en_pickthall": "Withdraw from them awhile"
+    },
+    {
+      "global_id": 3967,
+      "surah": 37,
+      "ayah": 179,
+      "verse_key": "37:179",
+      "text_ar": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+      "text_en_pickthall": "And watch, for they will (soon) see."
+    },
+    {
+      "global_id": 3968,
+      "surah": 37,
+      "ayah": 180,
+      "verse_key": "37:180",
+      "text_ar": "سُبْحَـٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
+      "text_en_pickthall": "Glorified be thy Lord, the Lord of Majesty, from that which they attribute (unto Him)"
+    },
+    {
+      "global_id": 3969,
+      "surah": 37,
+      "ayah": 181,
+      "verse_key": "37:181",
+      "text_ar": "وَسَلَـٰمٌ عَلَى ٱلْمُرْسَلِينَ",
+      "text_en_pickthall": "And peace be unto those sent (to warn)."
+    },
+    {
+      "global_id": 3970,
+      "surah": 37,
+      "ayah": 182,
+      "verse_key": "37:182",
+      "text_ar": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_en_pickthall": "And praise be to Allah, Lord of the Worlds!"
+    }
+  ]
+}

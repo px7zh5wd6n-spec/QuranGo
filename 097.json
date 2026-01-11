@@ -1,0 +1,49 @@
+{
+  "surah_number": 97,
+  "name_en": "Al-Qadr",
+  "name_ar": "القدر",
+  "verses_count": 5,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6126,
+      "surah": 97,
+      "ayah": 1,
+      "verse_key": "97:1",
+      "text_ar": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "text_en_pickthall": "Lo! We revealed it on the Night of Predestination."
+    },
+    {
+      "global_id": 6127,
+      "surah": 97,
+      "ayah": 2,
+      "verse_key": "97:2",
+      "text_ar": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "text_en_pickthall": "Ah, what will convey unto thee what the Night of Power is!"
+    },
+    {
+      "global_id": 6128,
+      "surah": 97,
+      "ayah": 3,
+      "verse_key": "97:3",
+      "text_ar": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "text_en_pickthall": "The Night of Power is better than a thousand months."
+    },
+    {
+      "global_id": 6129,
+      "surah": 97,
+      "ayah": 4,
+      "verse_key": "97:4",
+      "text_ar": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "text_en_pickthall": "The angels and the Spirit descend therein, by the permission of their Lord, with all decrees."
+    },
+    {
+      "global_id": 6130,
+      "surah": 97,
+      "ayah": 5,
+      "verse_key": "97:5",
+      "text_ar": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "text_en_pickthall": "(The night is) Peace until the rising of the dawn."
+    }
+  ]
+}

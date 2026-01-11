@@ -1,0 +1,97 @@
+{
+  "surah_number": 93,
+  "name_en": "Ad-Duhaa",
+  "name_ar": "الضحى",
+  "verses_count": 11,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6080,
+      "surah": 93,
+      "ayah": 1,
+      "verse_key": "93:1",
+      "text_ar": " وَٱلضُّحَىٰ",
+      "text_en_pickthall": "By the morning hours"
+    },
+    {
+      "global_id": 6081,
+      "surah": 93,
+      "ayah": 2,
+      "verse_key": "93:2",
+      "text_ar": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "text_en_pickthall": "And by the night when it is stillest,"
+    },
+    {
+      "global_id": 6082,
+      "surah": 93,
+      "ayah": 3,
+      "verse_key": "93:3",
+      "text_ar": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "text_en_pickthall": "Thy Lord hath not forsaken thee nor doth He hate thee,"
+    },
+    {
+      "global_id": 6083,
+      "surah": 93,
+      "ayah": 4,
+      "verse_key": "93:4",
+      "text_ar": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "text_en_pickthall": "And verily the latter portion will be better for thee than the former,"
+    },
+    {
+      "global_id": 6084,
+      "surah": 93,
+      "ayah": 5,
+      "verse_key": "93:5",
+      "text_ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "text_en_pickthall": "And verily thy Lord will give unto thee so that thou wilt be content."
+    },
+    {
+      "global_id": 6085,
+      "surah": 93,
+      "ayah": 6,
+      "verse_key": "93:6",
+      "text_ar": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "text_en_pickthall": "Did He not find thee an orphan and protect (thee)?"
+    },
+    {
+      "global_id": 6086,
+      "surah": 93,
+      "ayah": 7,
+      "verse_key": "93:7",
+      "text_ar": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "text_en_pickthall": "Did He not find thee wandering and direct (thee)?"
+    },
+    {
+      "global_id": 6087,
+      "surah": 93,
+      "ayah": 8,
+      "verse_key": "93:8",
+      "text_ar": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "text_en_pickthall": "Did He not find thee destitute and enrich (thee)?"
+    },
+    {
+      "global_id": 6088,
+      "surah": 93,
+      "ayah": 9,
+      "verse_key": "93:9",
+      "text_ar": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "text_en_pickthall": "Therefor the orphan oppress not,"
+    },
+    {
+      "global_id": 6089,
+      "surah": 93,
+      "ayah": 10,
+      "verse_key": "93:10",
+      "text_ar": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "text_en_pickthall": "Therefor the beggar drive not away,"
+    },
+    {
+      "global_id": 6090,
+      "surah": 93,
+      "ayah": 11,
+      "verse_key": "93:11",
+      "text_ar": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "text_en_pickthall": "Therefor of the bounty of thy Lord be thy discourse."
+    }
+  ]
+}

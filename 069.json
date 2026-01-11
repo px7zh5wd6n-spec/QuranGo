@@ -1,0 +1,425 @@
+{
+  "surah_number": 69,
+  "name_en": "Al-Haqqah",
+  "name_ar": "الحاقة",
+  "verses_count": 52,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 5324,
+      "surah": 69,
+      "ayah": 1,
+      "verse_key": "69:1",
+      "text_ar": " ٱلْحَآقَّةُ",
+      "text_en_pickthall": "The Reality!"
+    },
+    {
+      "global_id": 5325,
+      "surah": 69,
+      "ayah": 2,
+      "verse_key": "69:2",
+      "text_ar": "مَا ٱلْحَآقَّةُ",
+      "text_en_pickthall": "What is the Reality?"
+    },
+    {
+      "global_id": 5326,
+      "surah": 69,
+      "ayah": 3,
+      "verse_key": "69:3",
+      "text_ar": "وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ",
+      "text_en_pickthall": "Ah, what will convey unto thee what the reality is!"
+    },
+    {
+      "global_id": 5327,
+      "surah": 69,
+      "ayah": 4,
+      "verse_key": "69:4",
+      "text_ar": "كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ",
+      "text_en_pickthall": "(The tribes of) Thamud and A´ad disbelieved in the judgment to come."
+    },
+    {
+      "global_id": 5328,
+      "surah": 69,
+      "ayah": 5,
+      "verse_key": "69:5",
+      "text_ar": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+      "text_en_pickthall": "As for Thamud, they were destroyed by the lightning."
+    },
+    {
+      "global_id": 5329,
+      "surah": 69,
+      "ayah": 6,
+      "verse_key": "69:6",
+      "text_ar": "وَأَمَّا عَادٌ فَأُهْلِكُوا۟ بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+      "text_en_pickthall": "And as for A´ad, they were destroyed by a fierce roaring wind,"
+    },
+    {
+      "global_id": 5330,
+      "surah": 69,
+      "ayah": 7,
+      "verse_key": "69:7",
+      "text_ar": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+      "text_en_pickthall": "Which He imposed on them for seven long nights and eight long days so that thou mightest have seen men lying overthrown, as they were hollow trunks of palm-trees."
+    },
+    {
+      "global_id": 5331,
+      "surah": 69,
+      "ayah": 8,
+      "verse_key": "69:8",
+      "text_ar": "فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍ",
+      "text_en_pickthall": "Canst thou (O Muhammad) see any remnant of them?"
+    },
+    {
+      "global_id": 5332,
+      "surah": 69,
+      "ayah": 9,
+      "verse_key": "69:9",
+      "text_ar": "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ",
+      "text_en_pickthall": "And Pharaoh and those before him, and the communities that were destroyed, brought error,"
+    },
+    {
+      "global_id": 5333,
+      "surah": 69,
+      "ayah": 10,
+      "verse_key": "69:10",
+      "text_ar": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً",
+      "text_en_pickthall": "And they disobeyed the messenger of their Lord, therefor did He grip them with a tightening grip."
+    },
+    {
+      "global_id": 5334,
+      "surah": 69,
+      "ayah": 11,
+      "verse_key": "69:11",
+      "text_ar": "إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَـٰكُمْ فِى ٱلْجَارِيَةِ",
+      "text_en_pickthall": "Lo! when the waters rose, We carried you upon the ship"
+    },
+    {
+      "global_id": 5335,
+      "surah": 69,
+      "ayah": 12,
+      "verse_key": "69:12",
+      "text_ar": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَآ أُذُنٌ وَٰعِيَةٌ",
+      "text_en_pickthall": "That We might make it a memorial for you, and that remembering ears (that heard the story) might remember."
+    },
+    {
+      "global_id": 5336,
+      "surah": 69,
+      "ayah": 13,
+      "verse_key": "69:13",
+      "text_ar": "فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌ وَٰحِدَةٌ",
+      "text_en_pickthall": "And when the trumpet shall sound one blast"
+    },
+    {
+      "global_id": 5337,
+      "surah": 69,
+      "ayah": 14,
+      "verse_key": "69:14",
+      "text_ar": "وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةً وَٰحِدَةً",
+      "text_en_pickthall": "And the earth with the mountains shall be lifted up and crushed with one crash,"
+    },
+    {
+      "global_id": 5338,
+      "surah": 69,
+      "ayah": 15,
+      "verse_key": "69:15",
+      "text_ar": "فَيَوْمَئِذٍ وَقَعَتِ ٱلْوَاقِعَةُ",
+      "text_en_pickthall": "Then, on that day will the Event befall."
+    },
+    {
+      "global_id": 5339,
+      "surah": 69,
+      "ayah": 16,
+      "verse_key": "69:16",
+      "text_ar": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِىَ يَوْمَئِذٍ وَاهِيَةٌ",
+      "text_en_pickthall": "And the heaven will split asunder, for that day it will be frail."
+    },
+    {
+      "global_id": 5340,
+      "surah": 69,
+      "ayah": 17,
+      "verse_key": "69:17",
+      "text_ar": "وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَـٰنِيَةٌ",
+      "text_en_pickthall": "And the angels will be on the sides thereof, and eight will uphold the Throne of thy Lord that day, above them."
+    },
+    {
+      "global_id": 5341,
+      "surah": 69,
+      "ayah": 18,
+      "verse_key": "69:18",
+      "text_ar": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ",
+      "text_en_pickthall": "On that day ye will be exposed; not a secret of you will be hidden."
+    },
+    {
+      "global_id": 5342,
+      "surah": 69,
+      "ayah": 19,
+      "verse_key": "69:19",
+      "text_ar": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَـٰبِيَهْ",
+      "text_en_pickthall": "Then, as for him who is given his record in his right hand, he will say: Take, read my book!"
+    },
+    {
+      "global_id": 5343,
+      "surah": 69,
+      "ayah": 20,
+      "verse_key": "69:20",
+      "text_ar": "إِنِّى ظَنَنتُ أَنِّى مُلَـٰقٍ حِسَابِيَهْ",
+      "text_en_pickthall": "Surely I knew that I should have to meet my reckoning."
+    },
+    {
+      "global_id": 5344,
+      "surah": 69,
+      "ayah": 21,
+      "verse_key": "69:21",
+      "text_ar": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "text_en_pickthall": "Then he will be in blissful state"
+    },
+    {
+      "global_id": 5345,
+      "surah": 69,
+      "ayah": 22,
+      "verse_key": "69:22",
+      "text_ar": "فِى جَنَّةٍ عَالِيَةٍ",
+      "text_en_pickthall": "In a high garden"
+    },
+    {
+      "global_id": 5346,
+      "surah": 69,
+      "ayah": 23,
+      "verse_key": "69:23",
+      "text_ar": "قُطُوفُهَا دَانِيَةٌ",
+      "text_en_pickthall": "Whereof the clusters are in easy reach."
+    },
+    {
+      "global_id": 5347,
+      "surah": 69,
+      "ayah": 24,
+      "verse_key": "69:24",
+      "text_ar": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ",
+      "text_en_pickthall": "(And it will be said unto those therein): Eat and drink at ease for that which ye sent on before you in past days."
+    },
+    {
+      "global_id": 5348,
+      "surah": 69,
+      "ayah": 25,
+      "verse_key": "69:25",
+      "text_ar": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَـٰلَيْتَنِى لَمْ أُوتَ كِتَـٰبِيَهْ",
+      "text_en_pickthall": "But as for him who is given his record in his left hand, he will say: Oh, would that I had not been given my book"
+    },
+    {
+      "global_id": 5349,
+      "surah": 69,
+      "ayah": 26,
+      "verse_key": "69:26",
+      "text_ar": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+      "text_en_pickthall": "And knew not what my reckoning!"
+    },
+    {
+      "global_id": 5350,
+      "surah": 69,
+      "ayah": 27,
+      "verse_key": "69:27",
+      "text_ar": "يَـٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+      "text_en_pickthall": "Oh, would that it had been death!"
+    },
+    {
+      "global_id": 5351,
+      "surah": 69,
+      "ayah": 28,
+      "verse_key": "69:28",
+      "text_ar": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ",
+      "text_en_pickthall": "My wealth hath not availed me,"
+    },
+    {
+      "global_id": 5352,
+      "surah": 69,
+      "ayah": 29,
+      "verse_key": "69:29",
+      "text_ar": "هَلَكَ عَنِّى سُلْطَـٰنِيَهْ",
+      "text_en_pickthall": "My power hath gone from me."
+    },
+    {
+      "global_id": 5353,
+      "surah": 69,
+      "ayah": 30,
+      "verse_key": "69:30",
+      "text_ar": "خُذُوهُ فَغُلُّوهُ",
+      "text_en_pickthall": "(It will be said): Take him and fetter him"
+    },
+    {
+      "global_id": 5354,
+      "surah": 69,
+      "ayah": 31,
+      "verse_key": "69:31",
+      "text_ar": "ثُمَّ ٱلْجَحِيمَ صَلُّوهُ",
+      "text_en_pickthall": "And then expose him to hell-fire"
+    },
+    {
+      "global_id": 5355,
+      "surah": 69,
+      "ayah": 32,
+      "verse_key": "69:32",
+      "text_ar": "ثُمَّ فِى سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَٱسْلُكُوهُ",
+      "text_en_pickthall": "And then insert him in a chain whereof the length is seventy cubits."
+    },
+    {
+      "global_id": 5356,
+      "surah": 69,
+      "ayah": 33,
+      "verse_key": "69:33",
+      "text_ar": "إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ",
+      "text_en_pickthall": "Lo! He used not to believe in Allah the Tremendous,"
+    },
+    {
+      "global_id": 5357,
+      "surah": 69,
+      "ayah": 34,
+      "verse_key": "69:34",
+      "text_ar": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "text_en_pickthall": "And urged not on the feeding of the wretched."
+    },
+    {
+      "global_id": 5358,
+      "surah": 69,
+      "ayah": 35,
+      "verse_key": "69:35",
+      "text_ar": "فَلَيْسَ لَهُ ٱلْيَوْمَ هَـٰهُنَا حَمِيمٌ",
+      "text_en_pickthall": "Therefor hath he no lover here this day,"
+    },
+    {
+      "global_id": 5359,
+      "surah": 69,
+      "ayah": 36,
+      "verse_key": "69:36",
+      "text_ar": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+      "text_en_pickthall": "Nor any food save filth"
+    },
+    {
+      "global_id": 5360,
+      "surah": 69,
+      "ayah": 37,
+      "verse_key": "69:37",
+      "text_ar": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَـٰطِـُٔونَ",
+      "text_en_pickthall": "Which none but sinners eat."
+    },
+    {
+      "global_id": 5361,
+      "surah": 69,
+      "ayah": 38,
+      "verse_key": "69:38",
+      "text_ar": "فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ",
+      "text_en_pickthall": "But nay! I swear by all that ye see"
+    },
+    {
+      "global_id": 5362,
+      "surah": 69,
+      "ayah": 39,
+      "verse_key": "69:39",
+      "text_ar": "وَمَا لَا تُبْصِرُونَ",
+      "text_en_pickthall": "And all that ye see not"
+    },
+    {
+      "global_id": 5363,
+      "surah": 69,
+      "ayah": 40,
+      "verse_key": "69:40",
+      "text_ar": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "text_en_pickthall": "That it is indeed the speech of an illustrious messenger."
+    },
+    {
+      "global_id": 5364,
+      "surah": 69,
+      "ayah": 41,
+      "verse_key": "69:41",
+      "text_ar": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ",
+      "text_en_pickthall": "It is not poet´s speech - little is it that ye believe!"
+    },
+    {
+      "global_id": 5365,
+      "surah": 69,
+      "ayah": 42,
+      "verse_key": "69:42",
+      "text_ar": "وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "text_en_pickthall": "Nor diviner´s speech - little is it that ye remember!"
+    },
+    {
+      "global_id": 5366,
+      "surah": 69,
+      "ayah": 43,
+      "verse_key": "69:43",
+      "text_ar": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+      "text_en_pickthall": "It is a revelation from the Lord of the Worlds."
+    },
+    {
+      "global_id": 5367,
+      "surah": 69,
+      "ayah": 44,
+      "verse_key": "69:44",
+      "text_ar": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ",
+      "text_en_pickthall": "And if he had invented false sayings concerning Us,"
+    },
+    {
+      "global_id": 5368,
+      "surah": 69,
+      "ayah": 45,
+      "verse_key": "69:45",
+      "text_ar": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+      "text_en_pickthall": "We assuredly had taken him by the right hand"
+    },
+    {
+      "global_id": 5369,
+      "surah": 69,
+      "ayah": 46,
+      "verse_key": "69:46",
+      "text_ar": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
+      "text_en_pickthall": "And then severed his life-artery,"
+    },
+    {
+      "global_id": 5370,
+      "surah": 69,
+      "ayah": 47,
+      "verse_key": "69:47",
+      "text_ar": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ",
+      "text_en_pickthall": "And not one of you could have held Us off from him."
+    },
+    {
+      "global_id": 5371,
+      "surah": 69,
+      "ayah": 48,
+      "verse_key": "69:48",
+      "text_ar": "وَإِنَّهُۥ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ",
+      "text_en_pickthall": "And lo! it is a warrant unto those who ward off (evil)."
+    },
+    {
+      "global_id": 5372,
+      "surah": 69,
+      "ayah": 49,
+      "verse_key": "69:49",
+      "text_ar": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+      "text_en_pickthall": "And lo! We know that some among you will deny (it)."
+    },
+    {
+      "global_id": 5373,
+      "surah": 69,
+      "ayah": 50,
+      "verse_key": "69:50",
+      "text_ar": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَـٰفِرِينَ",
+      "text_en_pickthall": "And lo! it is indeed an anguish for the disbelievers."
+    },
+    {
+      "global_id": 5374,
+      "surah": 69,
+      "ayah": 51,
+      "verse_key": "69:51",
+      "text_ar": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
+      "text_en_pickthall": "And lo! it is absolute truth."
+    },
+    {
+      "global_id": 5375,
+      "surah": 69,
+      "ayah": 52,
+      "verse_key": "69:52",
+      "text_ar": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "text_en_pickthall": "So glorify the name of thy Tremendous Lord."
+    }
+  ]
+}

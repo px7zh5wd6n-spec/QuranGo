@@ -1,0 +1,161 @@
+{
+  "surah_number": 96,
+  "name_en": "Al-'Alaq",
+  "name_ar": "العلق",
+  "verses_count": 19,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6107,
+      "surah": 96,
+      "ayah": 1,
+      "verse_key": "96:1",
+      "text_ar": " ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "text_en_pickthall": "Read: In the name of thy Lord Who createth,"
+    },
+    {
+      "global_id": 6108,
+      "surah": 96,
+      "ayah": 2,
+      "verse_key": "96:2",
+      "text_ar": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+      "text_en_pickthall": "Createth man from a clot."
+    },
+    {
+      "global_id": 6109,
+      "surah": 96,
+      "ayah": 3,
+      "verse_key": "96:3",
+      "text_ar": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "text_en_pickthall": "Read: And thy Lord is the Most Bounteous,"
+    },
+    {
+      "global_id": 6110,
+      "surah": 96,
+      "ayah": 4,
+      "verse_key": "96:4",
+      "text_ar": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "text_en_pickthall": "Who teacheth by the pen,"
+    },
+    {
+      "global_id": 6111,
+      "surah": 96,
+      "ayah": 5,
+      "verse_key": "96:5",
+      "text_ar": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "text_en_pickthall": "Teacheth man that which he knew not."
+    },
+    {
+      "global_id": 6112,
+      "surah": 96,
+      "ayah": 6,
+      "verse_key": "96:6",
+      "text_ar": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+      "text_en_pickthall": "Nay, but verily man is rebellious"
+    },
+    {
+      "global_id": 6113,
+      "surah": 96,
+      "ayah": 7,
+      "verse_key": "96:7",
+      "text_ar": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "text_en_pickthall": "That he thinketh himself independent!"
+    },
+    {
+      "global_id": 6114,
+      "surah": 96,
+      "ayah": 8,
+      "verse_key": "96:8",
+      "text_ar": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "text_en_pickthall": "Lo! unto thy Lord is the return."
+    },
+    {
+      "global_id": 6115,
+      "surah": 96,
+      "ayah": 9,
+      "verse_key": "96:9",
+      "text_ar": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "text_en_pickthall": "Hast thou seen him who dissuadeth"
+    },
+    {
+      "global_id": 6116,
+      "surah": 96,
+      "ayah": 10,
+      "verse_key": "96:10",
+      "text_ar": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "text_en_pickthall": "A slave when he prayeth?"
+    },
+    {
+      "global_id": 6117,
+      "surah": 96,
+      "ayah": 11,
+      "verse_key": "96:11",
+      "text_ar": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "text_en_pickthall": "Hast thou seen if he relieth on the guidance (of Allah)"
+    },
+    {
+      "global_id": 6118,
+      "surah": 96,
+      "ayah": 12,
+      "verse_key": "96:12",
+      "text_ar": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "text_en_pickthall": "Or enjoineth piety?"
+    },
+    {
+      "global_id": 6119,
+      "surah": 96,
+      "ayah": 13,
+      "verse_key": "96:13",
+      "text_ar": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "text_en_pickthall": "Hast thou seen if he denieth (Allah´s guidance) and is froward?"
+    },
+    {
+      "global_id": 6120,
+      "surah": 96,
+      "ayah": 14,
+      "verse_key": "96:14",
+      "text_ar": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "text_en_pickthall": "Is he then unaware that Allah seeth?"
+    },
+    {
+      "global_id": 6121,
+      "surah": 96,
+      "ayah": 15,
+      "verse_key": "96:15",
+      "text_ar": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "text_en_pickthall": "Nay, but if he cease not We will seize him by the forelock -"
+    },
+    {
+      "global_id": 6122,
+      "surah": 96,
+      "ayah": 16,
+      "verse_key": "96:16",
+      "text_ar": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+      "text_en_pickthall": "The lying, sinful forelock -"
+    },
+    {
+      "global_id": 6123,
+      "surah": 96,
+      "ayah": 17,
+      "verse_key": "96:17",
+      "text_ar": "فَلْيَدْعُ نَادِيَهُۥ",
+      "text_en_pickthall": "Then let him call upon his henchmen!"
+    },
+    {
+      "global_id": 6124,
+      "surah": 96,
+      "ayah": 18,
+      "verse_key": "96:18",
+      "text_ar": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "text_en_pickthall": "We will call the guards of hell."
+    },
+    {
+      "global_id": 6125,
+      "surah": 96,
+      "ayah": 19,
+      "verse_key": "96:19",
+      "text_ar": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "text_en_pickthall": "Nay, Obey not thou him. But prostrate thyself, and draw near (unto Allah)."
+    }
+  ]
+}
